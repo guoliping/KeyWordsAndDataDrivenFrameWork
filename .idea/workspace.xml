@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d090a7c2-19b7-4ced-8a3d-f17ca7cd3a73" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$threading2.coverage" NAME="threading2 Coverage Results" MODIFIED="1534216257179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$test_pytest02.coverage" NAME="test_pytest02 Coverage Results" MODIFIED="1534227351249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1534239847700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$TestSendMailAndCreateContacts.coverage" NAME="TestSendMailAndCreateContacts Coverage Results" MODIFIED="1533692259668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/testScripts" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1533111827233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/action" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1534229019158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$FileB.coverage" NAME="FileB Coverage Results" MODIFIED="1533201361431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August02" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$CreateContacts.coverage" NAME="CreateContacts Coverage Results" MODIFIED="1533202635894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/testScripts" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$test_sample.coverage" NAME="test_sample Coverage Results" MODIFIED="1534227414992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$ParseConfigurationFile.coverage" NAME="ParseConfigurationFile Coverage Results" MODIFIED="1532489714299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1532504491599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$LoginAction.coverage" NAME="LoginAction Coverage Results" MODIFIED="1532588574361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appModules" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$HomePage.coverage" NAME="HomePage Coverage Results" MODIFIED="1532575598991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageObjects" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1532600413371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1533267153537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August02" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$threading_lock.coverage" NAME="threading_lock Coverage Results" MODIFIED="1533802859551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$AddContactPersonAction.coverage" NAME="AddContactPersonAction Coverage Results" MODIFIED="1532588776764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appModules" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$pytest01.coverage" NAME="pytest01 Coverage Results" MODIFIED="1533102824417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$thread_browe.coverage" NAME="thread_browe Coverage Results" MODIFIED="1534216273903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$pytest_assert.coverage" NAME="pytest_assert Coverage Results" MODIFIED="1534228392081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$AddressBookPage.coverage" NAME="AddressBookPage Coverage Results" MODIFIED="1532490256433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageObjects" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$Unittests_in_logging_01_py.coverage" NAME="Unittests in logging_01.py Coverage Results" MODIFIED="1534233183000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1532504170309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageObjects" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$threading3.coverage" NAME="threading3 Coverage Results" MODIFIED="1533546359626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August06" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$TestMail126AddContacts.coverage" NAME="TestMail126AddContacts Coverage Results" MODIFIED="1533091857300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$VarConfig.coverage" NAME="VarConfig Coverage Results" MODIFIED="1532334608588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$pytest02.coverage" NAME="pytest02 Coverage Results" MODIFIED="1533102808537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$TestSendMailWithAttachment.coverage" NAME="TestSendMailWithAttachment Coverage Results" MODIFIED="1533635919875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/testScripts" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$threading_test.coverage" NAME="threading_test Coverage Results" MODIFIED="1533799952537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$Log.coverage" NAME="Log Coverage Results" MODIFIED="1534302121096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1534127806481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$driver.coverage" NAME="driver Coverage Results" MODIFIED="1533111480639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$11.coverage" NAME="11 Coverage Results" MODIFIED="1532600776970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testData" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$Unittests_for_logging_01_BaiduSearch.coverage" NAME="Unittests for logging_01.BaiduSearch Coverage Results" MODIFIED="1534233423149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$thread_lock.coverage" NAME="thread_lock Coverage Results" MODIFIED="1534240788728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August06" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$threading1.coverage" NAME="threading1 Coverage Results" MODIFIED="1533796863717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August06" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1533523800699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August06" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$WriteTestResult.coverage" NAME="WriteTestResult Coverage Results" MODIFIED="1533635156216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/testScripts" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$test_pytest01.coverage" NAME="test_pytest01 Coverage Results" MODIFIED="1534227222472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August01" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$Unittests_in_logger_py.coverage" NAME="Unittests in logger.py Coverage Results" MODIFIED="1534302192620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$webdriverwait.coverage" NAME="webdriverwait Coverage Results" MODIFIED="1533718438869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August08" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1533692294357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1533109470295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/KeyWordsAndDataDrivenFrameWork/util" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$loggingmod.coverage" NAME="loggingmod Coverage Results" MODIFIED="1534231608224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August14" />
+    <SUITE FILE_PATH="coverage/DataDrivenFrameWork$pool.coverage" NAME="pool Coverage Results" MODIFIED="1533283890424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/python-test/August02" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="threading2.py" pinned="false" current-in-tab="false">
+        <entry file="file://H:/python-test/August08/threading2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://H:/python-test/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+        <entry file="file://H:/python-test/August14/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="e#14#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_08_15.log" pinned="false" current-in-tab="false">
+        <entry file="file://H:/python-test/August14/2018_08_15.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.py" pinned="false" current-in-tab="false">
+        <entry file="file://H:/python-test/August14/Log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+              <folding>
+                <element signature="e#14#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log/report.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/appModules/LoginAction.py" />
+        <option value="$PROJECT_DIR$/testData/11.py" />
+        <option value="$PROJECT_DIR$/util/ParseExcel.py" />
+        <option value="$PROJECT_DIR$/config/Logger.conf.py" />
+        <option value="$PROJECT_DIR$/config/Logger.conf" />
+        <option value="$PROJECT_DIR$/util/Log.py" />
+        <option value="$PROJECT_DIR$/appModules/AddContactPersonAction.py" />
+        <option value="$PROJECT_DIR$/util/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/testScripts/TestMail126AddContacts.py" />
+        <option value="$PROJECT_DIR$/config/VarConfig.py" />
+        <option value="$PROJECT_DIR$/RunTest.py" />
+        <option value="H:/python-test/August01/pytest01.py" />
+        <option value="H:/python-test/August01/pytest02.py" />
+        <option value="H:/python-test/August01/test_sample.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/util/WaitUtil.py" />
+        <option value="H:/python-test/August01/driver.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/testScripts/TestSendMailWithAttachment.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/action/PageAction.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/util/ParseExcel.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/config/VarConfig.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/testScripts/__init__.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/testScripts/WriteTestResult.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/RunTest.py" />
+        <option value="H:/python-test/August02/FileA.py" />
+        <option value="H:/python-test/August02/__init__.py" />
+        <option value="H:/python-test/August02/FileB.py" />
+        <option value="H:/python-test/August02/thread_test.py" />
+        <option value="H:/python-test/August02/pool.py" />
+        <option value="H:/python-test/August06/thread1.py" />
+        <option value="H:/python-test/August06/thread_lock.py" />
+        <option value="H:/python-test/August06/threading2.py" />
+        <option value="H:/python-test/August06/threading3.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/testScripts/TestSendMailAndCreateContacts.py" />
+        <option value="H:/KeyWordsAndDataDrivenFrameWork/testScripts/CreateContacts.py" />
+        <option value="H:/python-test/August08/webdriverwait.py" />
+        <option value="H:/python-test/August06/threading1.py" />
+        <option value="H:/python-test/August08/thread_browe.py" />
+        <option value="H:/python-test/August08/threading_test.py" />
+        <option value="H:/python-test/August08/threadingtt.py" />
+        <option value="H:/python-test/August08/threading_lock.py" />
+        <option value="H:/python-test/August08/urllib_test.py" />
+        <option value="H:/picustest/page/page.py" />
+        <option value="H:/python-test/August08/threading2.py" />
+        <option value="H:/python-test/August01/pytest_assert.py" />
+        <option value="H:/python-test/August01/test_01.py" />
+        <option value="H:/python-test/August14/loggingmod.py" />
+        <option value="H:/python-test/August14/log.txt" />
+        <option value="H:/python-test/August14/logging_01.py" />
+        <option value="H:/python-test/August14/__init__.py" />
+        <option value="H:/python-test/August14/Log.py" />
+        <option value="H:/python-test/August14/logger.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataDrivenFrameWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataDrivenFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="appModules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="August01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="August06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="August08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="August14" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="H:/test" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in logger.py">
+    <configuration name="Log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/python-test/August14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:/python-test/August14/Log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Unittests for logging_01.BaiduSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/python-test/August14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;logging_01.BaiduSearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in logger.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/python-test/August14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;H:/python-test/August14/logger.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/python-test/August14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:/python-test/August14/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="thread_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="H:/python-test/August06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:/python-test/August06/thread_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for logging_01.BaiduSearch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in logger.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.thread_lock" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Log" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in logger.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Log" />
+        <item index="2" class="java.lang.String" itemvalue="Python.thread_lock" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for logging_01.BaiduSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d090a7c2-19b7-4ced-8a3d-f17ca7cd3a73" name="Default" comment="" />
+      <created>1532074095668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532074095668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_logging_01_BaiduSearch - 2018.08.14 at 15h 57m 13s.xml">
+      <configuration name="Unittests for logging_01.BaiduSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logger_py - 2018.08.14 at 17h 58m 17s.xml">
+      <configuration name="Unittests in logger.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logger_py - 2018.08.14 at 18h 00m 28s.xml">
+      <configuration name="Unittests in logger.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logger_py - 2018.08.15 at 09h 58m 52s.xml">
+      <configuration name="Unittests in logger.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logger_py - 2018.08.15 at 10h 05m 44s.xml">
+      <configuration name="Unittests in logger.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logger_py - 2018.08.15 at 11h 03m 26s.xml">
+      <configuration name="Unittests in logger.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logging_01_py - 2018.08.14 at 15h 30m 26s.xml">
+      <configuration name="Unittests in logging_01.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logging_01_py - 2018.08.14 at 15h 51m 07s.xml">
+      <configuration name="Unittests in logging_01.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logging_01_py - 2018.08.14 at 15h 52m 13s.xml">
+      <configuration name="Unittests in logging_01.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_logging_01_py - 2018.08.14 at 15h 53m 13s.xml">
+      <configuration name="Unittests in logging_01.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38136512" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43445286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47505423" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://H:/python-test/August06/threading2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/testScripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/testScripts/CreateContacts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/testScripts/TestSendMailWithAttachment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/testScripts/WriteTestResult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/KeyWordsAndDataDrivenFrameWork/testScripts/TestSendMailAndCreateContacts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/lib/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/list/DataDrivenBydata/file_ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/list/DataDrivenBydata/report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/list/DataDrivenByexcel/DataDriven.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August06/thread1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August06/threading1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testScripts/TestMail126AddContacts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August06/threading3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picustest/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picustest/lib/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picustest/lib/pyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2997">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picustest/lib/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picustest/page/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August01/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August01/pytest_assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August01/test_pytest01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August01/test_pytest02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August01/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/warning_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/info_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/warning.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/loggingmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/thread_browe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/threading_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/urllib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/webdriverwait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/threading_lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+          <folding>
+            <element signature="e#14#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August06/thread_lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August08/threading2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/lib/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/lib/pyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <caret line="56" column="34" lean-forward="true" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/page/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/test_case/test_zbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#25#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="611" column="29" lean-forward="true" selection-start-line="611" selection-start-column="29" selection-end-line="611" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/picsTest/lib/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/logging_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="76" />
+          <folding>
+            <element signature="e#14#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/2018_08_15.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python-test/August14/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/report.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
