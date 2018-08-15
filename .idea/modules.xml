@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/KeyWordsAndDataDrivenFrameWork/.idea/KeyWordsFrameWork.iml" filepath="H:/KeyWordsAndDataDrivenFrameWork/.idea/KeyWordsFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test-126-proj.iml" filepath="$PROJECT_DIR$/.idea/Test-126-proj.iml" />
+      <module fileurl="file://H:/picsTest/.idea/picsTest.iml" filepath="H:/picsTest/.idea/picsTest.iml" />
+      <module fileurl="file://H:/picustest/.idea/picustest.iml" filepath="H:/picustest/.idea/picustest.iml" />
+      <module fileurl="file://H:/python-test/.idea/python-test.iml" filepath="H:/python-test/.idea/python-test.iml" />
+      <module fileurl="file://H:/pythontest/.idea/pythontest.iml" filepath="H:/pythontest/.idea/pythontest.iml" />
+      <module fileurl="file://H:/test/.idea/test.iml" filepath="H:/test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+Wed,15 Aug 2018 15:07:49 TestMail126AddContacts.py[line:36)]INFO 126邮箱添加联系人的数据驱动测试开始。。。
+Wed,15 Aug 2018 15:07:55 TestMail126AddContacts.py[line:55)]INFO 启动浏览器，访问126邮箱主页
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:86)]INFO 添加联系人lily@126.com成功
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:96)]INFO 断言关键字lily@126.com成功
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:101)]INFO 为用户xiyang198803添加1个联系人，测试通过！
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:101)]INFO 为用户xiyang198803添加1个联系人，测试通过！
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:101)]INFO 为用户xiyang198803添加1个联系人，测试通过！
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:101)]INFO 为用户xiyang198803添加1个联系人，测试通过！
+Wed,15 Aug 2018 15:08:11 TestMail126AddContacts.py[line:106)]INFO 联系人lily@126.com被忽略执行

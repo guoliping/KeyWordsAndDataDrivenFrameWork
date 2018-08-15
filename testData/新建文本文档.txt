@@ -1,0 +1,10 @@
+[126mail_homePage]
+homepage.addressbook=xpath>//div[text()='通讯录']
+
+[126mail_addContactsPage]
+addContactsPage.createContactsBtn=xpath>//span[text()='新建联系人']
+addContactsPage.contactPersonName=xpath>//input[@id='input_N']
+addContactsPage.contactPersonEmail=xpath>//*[@id="iaddress_MAIL_wrap"]//input
+addContactsPage.contactPersonMobile=xpath>//*[@id="iaddress_TEL_wrap"]//input
+addContactsPage.contactPersonComment=xpath>//*[@id='input_DETAIL']
+addContactsPage.savecontactPerson=xpath>//span[.='确定']
